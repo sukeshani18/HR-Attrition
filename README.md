@@ -1,20 +1,19 @@
-# 📊 HR Attrition Analysis Dashboard
+# HR Attrition Analysis 
 
 ![Dashboard](Dashboard.png "Power BI dashboard showing employee attrition insights")
 
-## 📌 Project Overview
+## Project Overview
 This project presents an interactive **HR Attrition Analysis Dashboard** built using Power BI.
 The objective is to analyze employee attrition patterns and identify key factors contributing to workforce turnover.
 
 
-## 🎯 Key Insights
+## Key Insights
 * Highest attrition observed in the **Research & Development department**
 * Employees with **lower salary levels** show higher attrition
 * Early-career employees (0–5 years experience) are more likely to leave
 * Certain job roles like **Sales Executive and Laboratory Technician** have higher attrition
 
-## 📊 Dashboard Features
-
+## Dashboard Features
 * KPI cards (Total Employees, Attrition Rate, Active Employees)
 * Attrition analysis by:
   * Department
@@ -24,20 +23,19 @@ The objective is to analyze employee attrition patterns and identify key factors
   * Experience
 * Advanced tooltip dashboard for detailed insights
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 * Power BI
 * Power Query
 * DAX (Data Analysis Expressions)
 
-## 📂 Files
-* 📁 Dataset: [HR_Attrition_Cleaned.xlsx](HR_Attrition_Cleaned.xlsx)
-* 📊 Power BI File: [hr-attrition.pbix](hr-attrition.pbix)
+## Files
+* Dataset: [HR_Attrition_Cleaned.xlsx](HR_Attrition_Cleaned.xlsx)
+* Power BI File: [hr-attrition.pbix](hr-attrition.pbix)
 
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](Dashboard.png)
 ![Dashboard](Dept-Tooltip.png)
-
 
 This dashboard helps organizations:
 * Identify high attrition areas
